@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Pedro Augusto
 
-### DevOps - Cloud - Automação - Sao Paulo, SP
+### DevOps - Cloud - Automação - São Paulo, SP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedroaugustorubacowiotti-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-augusto-rubacow-iotti-84807b19a)
 [![GitHub](https://img.shields.io/badge/GitHub-pedrorubacow-181717?style=flat&logo=github)](https://github.com/pedrorubacow)

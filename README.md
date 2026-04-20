@@ -2,11 +2,11 @@
 
 # Ola, eu sou o Pedro Augusto
 
-### DevOps - Cloud - Automacao - Sao Paulo, SP
+### DevOps - Cloud - Automação - Sao Paulo, SP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedroaugustorubacowiotti-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-augusto-rubacow-iotti-84807b19a)
 [![GitHub](https://img.shields.io/badge/GitHub-pedrorubacow-181717?style=flat&logo=github)](https://github.com/pedrorubacow)
-[![Email](https://img.shields.io/badge/Email-pedrorubacow%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrorubacow@outlook.com)
+[![Email](https://img.shields.io/badge/Email-pedrorubacow0%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrorubacow0@gmail.com)
 
 </div>
 
@@ -14,9 +14,7 @@
 
 ### Sobre mim
 
-Estudante de Sistemas de Informacao na **Universidade Presbiteriana Mackenzie** e estagiario DevOps na **Software.com.br**. Tenho experiencia pratica com containers, pipelines CI/CD, infraestrutura em nuvem e ferramentas de qualidade de codigo.
-
-Busco projetos freelance na area de **infraestrutura, automacao e DevOps** - se tiver um servidor para configurar, uma pipeline para montar ou uma aplicacao para dockerizar, e comigo.
+Estudante de Sistemas de Informação na **Universidade Presbiteriana Mackenzie** e estagiário DevOps na **Software.com.br**. Tenho experiência pratica com containers, pipelines CI/CD, infraestrutura em nuvem e ferramentas de qualidade de código.
 
 ---
 
@@ -48,12 +46,7 @@ Busco projetos freelance na area de **infraestrutura, automacao e DevOps** - se 
 ### Certificacoes
 
 - AWS Academy Cloud Foundations
-- - Microsoft Azure - Conceitos basicos
-  - - Google Cloud - Cloud Computing Fundamentals
-    - - Formacao DevOps - Alura (Docker, CI/CD, Terraform, Prometheus/Grafana)
+- Microsoft Azure - Conceitos basicos
+- Google Cloud - Cloud Computing Fundamentals
+- Formacao DevOps - Alura (Docker, CI/CD, Terraform, Prometheus/Grafana)
      
-      - ---
-
-      <div align="center">
-        <i>Ingles avancado - Disponivel para projetos freelance</i>i>
-      </div>div></i>

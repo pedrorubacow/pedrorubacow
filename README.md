@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ola, eu sou o Pedro Augusto
+# Olá, eu sou o Pedro Augusto
 
 ### DevOps - Cloud - Automação - Sao Paulo, SP
 
@@ -43,7 +43,7 @@ Estudante de Sistemas de Informação na **Universidade Presbiteriana Mackenzie*
 
 ---
 
-### Certificacoes
+### Certificações
 
 - AWS Academy Cloud Foundations
 - Microsoft Azure - Conceitos basicos
